@@ -26,7 +26,9 @@ A modern, powerful weather tracking application built with React and other leadi
 
 * **HOME PAGE:**
 ![homepage](https://github.com/CodeNeyam/Weather-app/assets/131716933/a67cbdd7-1196-4f28-9317-a629cd1fb9b0)
-* **WEATHER DETAILS:** 
+
+* **WEATHER DETAILS:** 
 ![weather detail](https://github.com/CodeNeyam/Weather-app/assets/131716933/51f07360-bc23-48fe-b8cf-89162a43c976)
-* **SEARCH & SETTINGS:** 
+
+* **SEARCH & SETTINGS:** 
 ![search and settings](https://github.com/CodeNeyam/Weather-app/assets/131716933/457611cd-ccf6-41b2-91a6-2efd6a636284)
