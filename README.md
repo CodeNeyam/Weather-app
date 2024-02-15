@@ -22,6 +22,9 @@ A modern, powerful weather tracking application built with React and other leadi
 * **Bootstrap:** Delivers responsive design and styling components for a seamless user experience.
 * **jQuery AJAX:** Facilitates efficient API requests to retrieve weather data.
 
-## Demonstration 🖥️ 
+## Demonstration 🖥️ 
 
-[Include screenshots, a video demo, or a link to a live demo here]
+* **HOME PAGE:** [Image or GIF of your app's home page] 
+* **WEATHER DETAILS:** [Image or GIF showcasing weather detail section]
+* **SEARCH:** [Image or GIF demonstrating the search functionality]
+* **SETTINGS:** [Image or GIF of the settings section]
